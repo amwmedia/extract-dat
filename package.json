@@ -1,0 +1,27 @@
+{
+  "name": "extract-dat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://amwmedia@github.com/amwmedia/extract-dat.git"
+  },
+  "keywords": [
+    "data",
+    "extract"
+  ],
+  "author": "Andrew Worcester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amwmedia/extract-dat/issues"
+  },
+  "homepage": "https://github.com/amwmedia/extract-dat#readme",
+  "devDependencies": {
+    "ava": "^3.11.0"
+  },
+  "files": ["index.js"]
+}
